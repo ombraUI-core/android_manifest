@@ -4,7 +4,8 @@ ombraUI Core 1.0 "blossomtree"
 
 ⚠️ WARNING - READ THIS
 ---------------
-ombraUI is still in its INITIAL STAGE so don't expect many features such as Custom apps, don't start dramas and don't act like a 8yo
+ombraUI is still in its INITIAL STAGE so don't expect many features such as Custom apps and Third-party customization options.
+We are looking for developers, feel free to apply in our [Discord Server](https://dsc.gg/astraosreborn)
 
 ⚒️ GETTING STARTED
 ---------------
