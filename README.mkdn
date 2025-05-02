@@ -1,6 +1,6 @@
 ombraUI Core 1.0 "blossomtree"
 ===========
-![Beta banner](https://github.com/ombraUI-core/android_manifest/blob/lineage-22.2/assets/banner.png)
+![Beta banner](https://github.com/ombraUI-core/android_manifest/blob/a15-blossomtree/assets/banner.png)
 
 ⚠️ WARNING - READ THIS
 ---------------
