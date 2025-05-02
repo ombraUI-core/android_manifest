@@ -18,6 +18,10 @@
            sync-c="true"
            sync-j="4" />
 
+  <remote name="ombracore"
+           fetch="https://github.com/ombraUI-core"
+           revision="refs/heads/a15-blossomtree" />
+
   <superproject name="platform/superproject" remote="aosp" revision="android-15.0.0_r26" />
   <contactinfo bugurl="go/repo-bug" />
 
